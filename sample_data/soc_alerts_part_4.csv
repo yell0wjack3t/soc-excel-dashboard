@@ -1,0 +1,101 @@
+Timestamp,Alert Type,Severity,Status,Source IP,Destination IP,Threat Category,Time to Triage (min),Time to Resolve (min)
+2026-02-03 09:16:23,Suspicious Phishing Email,Critical,Open,67.158.117.77,10.248.158.145,Phishing,19,24
+2026-02-03 12:46:18,Brute Force Login Attempt,High,Resolved,33.121.227.241,131.213.188.236,Credential Access,20,59
+2026-02-03 13:30:33,Credential Harvesting Site Access,Medium,Resolved,80.77.40.32,10.59.53.236,Credential Harvesting,43,172
+2026-02-03 19:35:54,Brute Force Login Attempt,Medium,False Positive,10.224.87.73,115.211.148.88,Credential Access,32,116
+2026-02-03 22:53:53,C2 Beaconing Detected,Medium,Open,253.123.18.122,159.136.221.164,C2 Beaconing,30,131
+2026-02-04 05:31:21,Credential Harvesting Site Access,High,Resolved,111.88.66.196,10.29.94.9,Credential Harvesting,1,76
+2026-02-04 09:16:09,Credential Harvesting Site Access,Low,In Progress,10.21.168.164,10.235.100.232,Credential Harvesting,11,130
+2026-02-04 12:05:27,Brute Force Login Attempt,Medium,In Progress,60.119.234.75,250.132.187.96,Credential Access,45,170
+2026-02-04 15:27:49,Data Exfiltration Anomaly,High,In Progress,10.89.199.176,10.150.202.247,Exfiltration,11,33
+2026-02-04 19:46:14,C2 Beaconing Detected,High,Open,10.141.64.85,10.62.139.183,C2 Beaconing,24,80
+2026-02-04 20:01:31,Brute Force Login Attempt,Critical,In Progress,7.56.139.165,90.7.215.89,Credential Access,21,116
+2026-02-04 20:47:30,C2 Beaconing Detected,High,Open,10.248.39.232,10.164.169.85,C2 Beaconing,32,88
+2026-02-04 21:45:51,Data Exfiltration Anomaly,Medium,False Positive,207.242.177.197,10.43.130.192,Exfiltration,12,117
+2026-02-04 22:15:17,C2 Beaconing Detected,Low,In Progress,10.0.37.167,22.59.84.130,C2 Beaconing,18,108
+2026-02-05 03:01:11,C2 Beaconing Detected,High,Open,10.57.115.110,10.103.129.23,C2 Beaconing,2,56
+2026-02-05 03:52:19,Data Exfiltration Anomaly,Low,Open,10.16.148.207,173.215.2.202,Exfiltration,31,194
+2026-02-05 04:02:26,Suspicious Phishing Email,Medium,Resolved,209.35.247.194,10.117.239.244,Phishing,31,169
+2026-02-05 12:30:35,Brute Force Login Attempt,High,In Progress,10.139.136.180,65.200.202.141,Credential Access,20,130
+2026-02-05 23:29:33,Suspicious Phishing Email,High,Open,10.174.181.218,10.215.17.240,Phishing,8,93
+2026-02-06 00:06:30,Credential Harvesting Site Access,Medium,False Positive,10.19.84.170,238.65.95.23,Credential Harvesting,36,168
+2026-02-06 02:10:09,Data Exfiltration Anomaly,Critical,Resolved,10.220.118.10,82.205.173.240,Exfiltration,1,29
+2026-02-06 05:23:21,Unusual PowerShell Execution,Critical,False Positive,228.90.135.233,10.97.147.69,Execution,27,88
+2026-02-06 10:48:29,Ransomware Activity Detected,High,False Positive,10.194.152.228,10.151.59.250,Ransomware,5,66
+2026-02-06 13:33:25,Data Exfiltration Anomaly,High,In Progress,10.22.67.70,10.30.198.190,Exfiltration,9,27
+2026-02-06 14:03:55,Credential Harvesting Site Access,Medium,Resolved,10.88.171.93,10.175.69.124,Credential Harvesting,41,160
+2026-02-06 16:15:55,Brute Force Login Attempt,High,False Positive,10.68.251.157,10.20.55.215,Credential Access,14,67
+2026-02-06 18:17:22,C2 Beaconing Detected,Medium,Resolved,10.120.81.235,10.227.108.185,C2 Beaconing,36,162
+2026-02-06 23:00:22,C2 Beaconing Detected,Medium,In Progress,10.183.240.222,10.184.35.86,C2 Beaconing,13,116
+2026-02-06 23:10:11,Suspicious Phishing Email,High,In Progress,10.137.175.191,10.252.122.189,Phishing,9,61
+2026-02-07 00:38:35,Malware Download Detected,Low,False Positive,10.151.124.149,75.148.62.49,Malware,32,140
+2026-02-07 01:09:07,Unusual PowerShell Execution,Medium,Resolved,10.160.20.46,13.197.251.7,Execution,28,139
+2026-02-07 03:41:35,Data Exfiltration Anomaly,High,Open,254.131.195.43,10.117.185.103,Exfiltration,7,69
+2026-02-07 10:46:56,Credential Harvesting Site Access,Low,False Positive,122.110.67.209,166.26.205.143,Credential Harvesting,37,151
+2026-02-07 12:39:51,Brute Force Login Attempt,High,Open,10.194.235.68,10.50.255.65,Credential Access,9,128
+2026-02-07 13:44:45,C2 Beaconing Detected,Critical,Open,30.37.149.185,10.133.68.179,C2 Beaconing,13,37
+2026-02-07 16:44:46,Ransomware Activity Detected,High,Resolved,149.65.10.158,146.113.95.111,Ransomware,14,105
+2026-02-07 20:24:27,Suspicious Phishing Email,Low,In Progress,10.126.170.193,113.114.246.55,Phishing,49,204
+2026-02-08 00:29:50,Credential Harvesting Site Access,Low,Open,197.85.35.238,8.74.60.76,Credential Harvesting,53,149
+2026-02-08 03:28:58,Brute Force Login Attempt,Medium,In Progress,192.186.34.165,10.46.31.90,Credential Access,38,194
+2026-02-08 09:28:39,C2 Beaconing Detected,Medium,Resolved,10.227.201.184,240.83.56.82,C2 Beaconing,26,106
+2026-02-08 13:03:51,Credential Harvesting Site Access,Medium,In Progress,47.178.30.103,246.78.61.253,Credential Harvesting,32,148
+2026-02-08 13:25:56,Malware Download Detected,Medium,Resolved,10.3.195.15,10.191.155.11,Malware,21,90
+2026-02-08 14:44:42,Data Exfiltration Anomaly,High,Resolved,10.219.250.46,126.165.163.136,Exfiltration,25,41
+2026-02-08 17:06:31,C2 Beaconing Detected,Medium,In Progress,10.48.175.23,10.160.3.22,C2 Beaconing,13,161
+2026-02-08 19:15:31,Suspicious Phishing Email,Medium,In Progress,10.2.214.197,220.69.213.58,Phishing,28,119
+2026-02-08 21:25:22,Credential Harvesting Site Access,High,Resolved,10.99.169.220,10.147.195.154,Credential Harvesting,15,46
+2026-02-08 21:53:42,Brute Force Login Attempt,Medium,In Progress,10.15.178.73,10.110.37.229,Credential Access,38,129
+2026-02-09 00:04:30,Data Exfiltration Anomaly,Low,Resolved,10.169.185.151,12.158.85.81,Exfiltration,18,161
+2026-02-09 03:58:14,Brute Force Login Attempt,Critical,False Positive,10.114.218.63,33.150.179.182,Credential Access,10,84
+2026-02-09 05:47:46,Ransomware Activity Detected,Medium,Resolved,211.46.109.206,168.92.110.75,Ransomware,29,163
+2026-02-09 06:07:34,Unusual PowerShell Execution,Medium,False Positive,215.43.97.9,10.65.88.110,Execution,22,180
+2026-02-09 07:11:19,Credential Harvesting Site Access,High,Resolved,18.67.155.16,10.175.239.174,Credential Harvesting,2,81
+2026-02-09 08:51:39,Malware Download Detected,Medium,In Progress,131.233.110.245,10.205.58.3,Malware,38,210
+2026-02-09 12:31:06,C2 Beaconing Detected,Medium,False Positive,10.49.160.234,90.179.62.224,C2 Beaconing,30,183
+2026-02-09 15:23:53,Suspicious Phishing Email,High,False Positive,10.23.55.178,77.234.214.70,Phishing,22,68
+2026-02-09 21:10:31,C2 Beaconing Detected,Critical,In Progress,10.242.41.241,207.184.126.112,C2 Beaconing,8,58
+2026-02-09 23:21:12,Data Exfiltration Anomaly,Medium,In Progress,113.64.17.162,22.49.47.199,Exfiltration,26,133
+2026-02-10 06:53:09,Unusual PowerShell Execution,Low,In Progress,10.136.202.218,72.104.34.186,Execution,35,136
+2026-02-10 09:14:28,Suspicious Phishing Email,Medium,Open,203.83.240.191,210.218.67.237,Phishing,19,176
+2026-02-10 10:06:24,Brute Force Login Attempt,Critical,False Positive,10.153.138.252,10.242.113.15,Credential Access,16,50
+2026-02-10 10:43:03,Suspicious Phishing Email,Low,Resolved,7.192.209.23,10.148.79.215,Phishing,20,98
+2026-02-10 12:47:38,Brute Force Login Attempt,High,Resolved,228.212.102.236,73.50.147.111,Credential Access,2,46
+2026-02-10 13:17:50,Suspicious Phishing Email,High,False Positive,10.207.96.101,10.166.72.3,Phishing,1,40
+2026-02-10 16:23:25,Ransomware Activity Detected,Critical,Resolved,10.112.234.114,10.139.190.45,Ransomware,15,20
+2026-02-10 17:12:04,Credential Harvesting Site Access,Critical,Open,10.127.28.90,10.163.206.137,Credential Harvesting,1,39
+2026-02-10 19:30:51,Data Exfiltration Anomaly,Low,False Positive,10.195.212.94,10.193.71.51,Exfiltration,32,166
+2026-02-10 20:40:59,Brute Force Login Attempt,Critical,In Progress,10.88.117.89,244.87.7.199,Credential Access,1,98
+2026-02-10 20:54:33,C2 Beaconing Detected,Medium,Open,10.32.138.173,10.185.93.44,C2 Beaconing,31,159
+2026-02-10 22:19:02,Data Exfiltration Anomaly,Medium,False Positive,10.41.239.157,10.26.170.246,Exfiltration,25,217
+2026-02-11 01:30:51,Credential Harvesting Site Access,Medium,Resolved,184.151.110.198,10.147.68.41,Credential Harvesting,25,117
+2026-02-11 04:01:33,Credential Harvesting Site Access,Low,Open,10.226.83.157,10.110.95.14,Credential Harvesting,26,124
+2026-02-11 04:17:23,Ransomware Activity Detected,High,Resolved,10.117.150.135,10.177.59.217,Ransomware,1,72
+2026-02-11 13:42:05,C2 Beaconing Detected,High,Resolved,10.71.73.206,208.67.126.77,C2 Beaconing,23,51
+2026-02-11 15:14:45,Unusual PowerShell Execution,Medium,False Positive,10.30.214.129,189.118.126.54,Execution,26,184
+2026-02-11 16:10:50,Credential Harvesting Site Access,Low,Resolved,180.37.142.26,10.109.69.138,Credential Harvesting,27,97
+2026-02-11 16:23:55,Malware Download Detected,High,Open,10.32.179.212,10.39.117.185,Malware,15,67
+2026-02-11 16:32:53,Suspicious Phishing Email,Low,Open,10.71.151.210,10.43.34.165,Phishing,21,125
+2026-02-12 11:23:05,Suspicious Phishing Email,High,Resolved,10.113.174.247,226.119.24.198,Phishing,3,74
+2026-02-12 13:07:36,Brute Force Login Attempt,Medium,Open,248.23.14.192,10.211.250.81,Credential Access,29,139
+2026-02-12 14:51:26,Data Exfiltration Anomaly,Medium,Open,10.111.61.232,198.172.27.5,Exfiltration,30,159
+2026-02-12 15:55:37,Suspicious Phishing Email,Medium,In Progress,10.81.71.46,10.144.215.109,Phishing,45,176
+2026-02-12 20:27:31,Suspicious Phishing Email,Medium,Resolved,10.217.173.224,10.126.188.119,Phishing,13,119
+2026-02-13 00:24:48,Ransomware Activity Detected,High,In Progress,233.87.43.195,181.164.197.92,Ransomware,2,26
+2026-02-13 00:31:21,Suspicious Phishing Email,Critical,In Progress,82.36.109.6,10.213.99.60,Phishing,32,152
+2026-02-13 16:04:45,Credential Harvesting Site Access,Medium,Resolved,23.171.184.100,10.97.134.206,Credential Harvesting,34,195
+2026-02-13 16:14:15,Ransomware Activity Detected,Medium,Resolved,66.128.58.161,10.131.243.50,Ransomware,16,142
+2026-02-14 01:03:59,Data Exfiltration Anomaly,Low,In Progress,10.214.151.200,10.79.29.160,Exfiltration,34,143
+2026-02-14 01:15:10,Malware Download Detected,High,Resolved,10.134.218.237,195.15.244.111,Malware,23,103
+2026-02-14 03:31:03,Unusual PowerShell Execution,Medium,Resolved,83.201.58.232,10.47.176.67,Execution,23,85
+2026-02-14 04:14:46,Ransomware Activity Detected,Low,Open,10.249.44.254,10.151.234.22,Ransomware,37,154
+2026-02-14 08:18:27,Suspicious Phishing Email,High,Open,75.200.28.23,10.25.164.28,Phishing,26,61
+2026-02-14 09:38:09,Malware Download Detected,Low,In Progress,10.253.153.181,10.57.246.202,Malware,24,139
+2026-02-14 11:11:07,Brute Force Login Attempt,Medium,Open,10.11.0.137,10.156.31.117,Credential Access,34,186
+2026-02-14 14:04:20,Unusual PowerShell Execution,High,Open,9.178.234.231,10.27.201.6,Execution,14,56
+2026-02-14 14:32:15,Suspicious Phishing Email,Medium,Resolved,10.193.207.66,10.150.27.118,Phishing,15,101
+2026-02-14 19:50:07,Ransomware Activity Detected,Critical,Open,10.133.51.53,10.108.94.188,Ransomware,24,99
+2026-02-14 20:39:51,C2 Beaconing Detected,Medium,In Progress,10.207.98.96,47.183.13.172,C2 Beaconing,24,171
+2026-02-14 22:00:05,C2 Beaconing Detected,Low,False Positive,10.38.152.217,10.50.33.23,C2 Beaconing,34,168
+2026-02-14 22:55:36,C2 Beaconing Detected,High,Resolved,143.248.134.158,10.213.64.132,C2 Beaconing,18,64
+2026-02-15 12:53:08,Data Exfiltration Anomaly,High,False Positive,49.171.11.87,10.225.149.251,Exfiltration,15,97
