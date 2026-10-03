@@ -22,7 +22,7 @@ An interactive Excel dashboard built to simulate Security Operations Center (SOC
 4. Use slicers to explore different views.
 
 ## 📁 Files
-- (SOC_Alert_Data.xlsx) – main dashboard file
+- [SOC Alert Data](SOC_Alert_Data.xlsx) – main dashboard file
 - `dashboard_screenshot.png` – preview image
 
 ## 🎯 Purpose
