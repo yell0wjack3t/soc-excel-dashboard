@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard built to simulate Security Operations Center (SOC) performance tracking. Designed to visualize alert volume, mean time to respond, severity distribution, and SLA adherence.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](soc_dashboard_screenshot.png)
 
 ## 📊 Features
 - **Alerts by Severity** – Pie chart breakdown of High/Medium/Low.
@@ -22,7 +22,7 @@ An interactive Excel dashboard built to simulate Security Operations Center (SOC
 4. Use slicers to explore different views.
 
 ## 📁 Files
-- `SOC_Alert_Data.xlsx` – main dashboard file
+- (SOC_Alert_Data.xlsx) – main dashboard file
 - `dashboard_screenshot.png` – preview image
 
 ## 🎯 Purpose
